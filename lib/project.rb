@@ -1,6 +1,6 @@
 class Project
 
-  attr_accessor :backer, :title, backers
+  attr_accessor :backer, :title, :backers
 
   @@add = []
 
